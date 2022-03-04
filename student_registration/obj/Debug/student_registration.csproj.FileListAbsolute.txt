@@ -1,0 +1,10 @@
+C:\Users\juanc\Documents\projects\c_sharp_projects\student_registration\student_registration\student_registration\bin\Debug\student_registration.exe.config
+C:\Users\juanc\Documents\projects\c_sharp_projects\student_registration\student_registration\student_registration\bin\Debug\student_registration.exe
+C:\Users\juanc\Documents\projects\c_sharp_projects\student_registration\student_registration\student_registration\bin\Debug\student_registration.pdb
+C:\Users\juanc\Documents\projects\c_sharp_projects\student_registration\student_registration\student_registration\obj\Debug\student_registration.csprojAssemblyReference.cache
+C:\Users\juanc\Documents\projects\c_sharp_projects\student_registration\student_registration\student_registration\obj\Debug\student_registration.Properties.Resources.resources
+C:\Users\juanc\Documents\projects\c_sharp_projects\student_registration\student_registration\student_registration\obj\Debug\student_registration.csproj.GenerateResource.cache
+C:\Users\juanc\Documents\projects\c_sharp_projects\student_registration\student_registration\student_registration\obj\Debug\student_registration.csproj.CoreCompileInputs.cache
+C:\Users\juanc\Documents\projects\c_sharp_projects\student_registration\student_registration\student_registration\obj\Debug\student_registration.exe
+C:\Users\juanc\Documents\projects\c_sharp_projects\student_registration\student_registration\student_registration\obj\Debug\student_registration.pdb
+C:\Users\juanc\Documents\projects\c_sharp_projects\student_registration\student_registration\student_registration\obj\Debug\student_registration.Form1.resources
